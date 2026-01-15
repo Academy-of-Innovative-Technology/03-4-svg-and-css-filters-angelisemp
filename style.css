@@ -50,3 +50,8 @@ filter: drop-shadow(16px 16px 20px red);
 #filter {
   filter: url(#filter)
 }
+
+#filter {
+filter: opacity(25%);
+filter: contrast(200%);
+}
